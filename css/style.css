@@ -94,30 +94,30 @@ button:hover {
 }
 
 .edit {
-    background-color: #28a745; /* Warna hijau untuk edit */
+    background-color: #28a745; 
 }
 
 .edit:hover {
-    background-color: #218838; /* Warna hijau lebih gelap saat hover */
+    background-color: #218838; 
 }
 
 .delete {
-    background-color: #dc3545; /* Warna merah untuk delete */
+    background-color: #dc3545; 
 }
 
 .delete:hover {
-    background-color: #c82333; /* Warna merah lebih gelap saat hover */
+    background-color: #c82333; 
 }
 
 .borrow {
-    background-color: #007bff; /* Warna biru untuk pinjam */
+    background-color: #007bff; 
 }
 
 .borrow:hover {
-    background-color: #0056b3; /* Warna biru lebih gelap saat hover */
+    background-color: #0056b3;
 }
 
 .quantity {
-    width: 50px; /* Lebar input jumlah */
-    text-align: center; /* Rata tengah untuk angka */
+    width: 50px; 
+    text-align: center; 
 }

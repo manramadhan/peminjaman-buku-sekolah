@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 try {
                     $stmt = $db->prepare("INSERT INTO books (title, author, image, quantity) VALUES (?, ?, ?, ?)");
                     $stmt->execute([$title, $author, $image, $quantity]);
-                    header("Location: index.php"); // Redirect kembali ke index
+                    header("Location: index.php"); 
                 } catch (PDOException $e) {
                     echo "Kesalahan dalam persiapan query: " . $e->getMessage();
                 }

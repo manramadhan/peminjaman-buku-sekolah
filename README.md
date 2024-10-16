@@ -1,6 +1,6 @@
 ## Sistem Peminjaman Buku Sekolah
 Sistem Peminjaman Buku Sekolah adalah sebuah aplikasi web sederhana yang memungkinkan pengelolaan data buku di perpustakaan sekolah, serta memudahkan proses peminjaman buku oleh siswa dan pengelolaan buku oleh admin. Aplikasi ini dibangun menggunakan HTML, CSS, dan PHP untuk antarmuka dan backend, serta SQLite sebagai database untuk menyimpan data buku dan transaksi.
-![gambar](peminjaman-buku.png)
+![gambar](/screenshot/peminjaman-buku.png)
 
 ### Fungsi : 
 1. #### Tambah Buku:
